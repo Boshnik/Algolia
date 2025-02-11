@@ -1,0 +1,26 @@
+{
+  "name": "boshnik/algolia",
+  "description": "Algolia",
+  "authors": [
+    {
+      "name": "Aleksandr Huz",
+      "email": "Superboshnik@gmail.com",
+      "homepage": "https://github.com/Boshnik"
+    }
+  ],
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">=8.1",
+    "algolia/algoliasearch-client-php": "4.0"
+  },
+  "config": {
+    "platform": {
+      "php": "8.1"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Boshnik\\Algolia\\": "src/"
+    }
+  }
+}

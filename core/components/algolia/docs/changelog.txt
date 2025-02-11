@@ -1,0 +1,6 @@
+# Changelog
+
+## [1.0.0-pl] - 2025-02-12
+- First release
+- support PageBlocks (pbResource)
+- support miniShop2 (msProduct)

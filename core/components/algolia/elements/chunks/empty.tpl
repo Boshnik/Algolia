@@ -1,0 +1,1 @@
+[[%algolia.empty_result]]
