@@ -41,7 +41,7 @@
 3. **Additional Conditions**  
    Specify additional conditions for data selection in JSON format in the setting `algolia.where`.  
    Examples:
-   ```json
+   ```php
    [{"parent": 5}] // add only resources with parent ID 5 to the index
    [{"price:>": 0}] // add products with a price greater than 0
 

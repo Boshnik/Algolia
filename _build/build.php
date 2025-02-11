@@ -455,7 +455,7 @@ class AlgoliaPackage
             'license' => file_get_contents($this->config['core'] . 'docs/license.txt'),
             'readme' => file_get_contents($this->config['core'] . 'docs/readme.txt'),
             'requires' => [
-                'php' => '>=7.2.0',
+                'php' => '>=8.1.0',
             ],
         ]);
 
